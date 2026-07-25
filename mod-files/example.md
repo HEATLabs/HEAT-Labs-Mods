@@ -1,0 +1,82 @@
+---
+id: 1
+name: MOD NAME
+download: DOWNLOAD URL
+status: Available # Available | Work in Progress | Beta Testing | Discontinued
+category: Gameplay # Gameplay | Interface | Audio | Visual | Model | Performance
+description: MOD DESCRIPTION
+
+features:
+  enabled: true # Maximum of 4 feature cards.
+  cards:
+    - enabled: true
+      name: FEATURE NAME 1
+      description: FEATURE DESCRIPTION 1
+    - enabled: true
+      name: FEATURE NAME 2
+      description: FEATURE DESCRIPTION 2
+    - enabled: true
+      name: FEATURE NAME 3
+      description: FEATURE DESCRIPTION 3
+    - enabled: true
+      name: FEATURE NAME 4
+      description: FEATURE DESCRIPTION 4
+
+overview:
+  enabled: true
+  description: MOD OVERVIEW DESCRIPTION
+  layout: heroPlusTwo # single | two | heroPlusTwo | grid
+  images:
+    hero: /images/overview-hero.png
+    items:
+      - /images/overview-1.png
+      - /images/overview-2.png
+      - /images/overview-3.png
+      - /images/overview-4.png
+
+installation:
+  enabled: true
+  description: HOW TO INSTALL DESCRIPTION
+  steps:
+    - name: Step #1
+      description: STEP 1 DESCRIPTION
+    - name: Step #2
+      description: STEP 2 DESCRIPTION
+    - name: Step #3
+      description: STEP 3 DESCRIPTION
+    - name: Step #4
+      description: STEP 4 DESCRIPTION
+
+videoShowcase:
+  enabled: true # Maximum of 4 video cards.
+  layout: single # single | two | heroPlusTwo | grid
+  videos:
+    - title: VIDEO TITLE 1
+      description: VIDEO DESCRIPTION 1
+      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
+      url: https://www.youtube.com/watch?v=[VIDEO_ID]
+      creator: CREATOR NAME
+      type: Tutorial
+    - title: VIDEO TITLE 2
+      description: VIDEO DESCRIPTION 2
+      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
+      url: https://www.youtube.com/watch?v=[VIDEO_ID]
+      creator: CREATOR NAME
+      type: Tutorial
+    - title: VIDEO TITLE 3
+      description: VIDEO DESCRIPTION 3
+      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
+      url: https://www.youtube.com/watch?v=[VIDEO_ID]
+      creator: CREATOR NAME
+      type: Tutorial
+    - title: VIDEO TITLE 4
+      description: VIDEO DESCRIPTION 4
+      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
+      url: https://www.youtube.com/watch?v=[VIDEO_ID]
+      creator: CREATOR NAME
+      type: Tutorial
+---
+
+## Some text stuff should go here
+text?
+text.
