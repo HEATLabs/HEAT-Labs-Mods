@@ -1,10 +1,27 @@
 ---
-id: 1
 name: MOD NAME
+description: MOD DESCRIPTION
 download: DOWNLOAD URL
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
-category: Gameplay # Gameplay | Interface | Audio | Visual | Model | Performance
-description: MOD DESCRIPTION
+category: Gameplay # Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
+type: Open Source # Open Source | Closed Source
+
+license:
+  enabled: true
+  name: LICENSE NAME
+  url: LICENSE URL
+
+support:
+  enabled: true
+  description: SHORT SECTION DESCRIPTION
+  feedback:
+    enabled: true
+    name: GitHub Issues
+    url: https://github.com/USERNAME/REPOSITORY/issues
+  support:
+    enabled: true
+    name: Discord Server
+    url: https://discord.gg/INVITE
 
 features:
   enabled: true # Maximum of 4 feature cards.
