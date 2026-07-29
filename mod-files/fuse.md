@@ -33,7 +33,7 @@ features:
       description: Drag overlays anywhere, resize them, adjust transparency and rotation, and snap them against each other with smart guides and a grid. Layouts are saved per plugin and restored every session, including separate positions for third person and first person. The same stage feeds straight into OBS as a browser source, so what you arrange once is what your viewers see if you're a streamer or record content for the game.
     - enabled: true
       name: From Idea to Plugin in an Evening
-      description: FUSE provides documented API, global hotkeys, persistent settings, the overlay lifecycle, animation through Motion-Vue or self-contained RIVE overlays, so a working plugin is jsut a bit of TypeScript. Full API surface and existing plugin code can be found in the repository.
+      description: FUSE provides documented API, global hotkeys, persistent settings, the overlay lifecycle, animation through Motion-Vue or self-contained RIVE overlays, so a working plugin is just a bit of TypeScript. Full API surface and existing plugin code can be found in the repository.
     - enabled: true
       name: Built to Be Shared
       description: Your plugin gets a marketplace page with markdown, custom styling, screenshots, declared dependencies, and proper versioning, and players install and update it without ever leaving FUSE.
