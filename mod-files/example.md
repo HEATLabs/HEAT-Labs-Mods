@@ -4,7 +4,7 @@ description: MOD DESCRIPTION
 download: DOWNLOAD URL
 compatible-version: 0.0.0
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
-category: Gameplay # Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
+category: Gameplay # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
 
 license:

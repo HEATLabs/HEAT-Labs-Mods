@@ -3,8 +3,8 @@ name: FUSE
 description: The first external modding platform for WoT:HEAT. Runs outside the game, installs reviewed plugins in one click, and gives developers a documented TypeScript API for building open-ended mods.
 download: https://github.com/AET9RNAL/HEAT-FUSE/releases
 compatible-version: 1.1.1
-status: Available # Available | Work in Progress | Beta Testing | Discontinued
-category: Loader # Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
+status: Available # Available | Work in Progress | Beta Testing | Discontinued | Prototype | Unknown
+category: Loader, Interface, Statistics # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
 
 license:
@@ -42,7 +42,7 @@ features:
 overview:
   enabled: true # Maximum of 4 images.
   description: >
-  WoT HEAT gives you the interface it ships with and no way to extend it. FUSE is the first modding platform for the game - one launcher where you install plugins from a reviewed marketplace, toggle them on and off, and tune them to your liking. Overlays put extra information on screen while you play or restyle native UI elements: energy, cooldowns, match stats, or whatever else the plugins you choose decide to show. Positioning takes one pass, and hotkeys let you move between three states - calibrating an overlay, locking it so your clicks pass through, and interactive mode, where overlays stay put but respond to your mouse so you can use the controls a plugin author exposed. Underneath, FUSE is a full modding runtime with a documented API, so building your own plugin and shipping it to everyone else takes a bit of TypeScript.
+    WoT HEAT gives you the interface it ships with and no way to extend it. FUSE is the first modding platform for the game - one launcher where you install plugins from a reviewed marketplace, toggle them on and off, and tune them to your liking. Overlays put extra information on screen while you play or restyle native UI elements: energy, cooldowns, match stats, or whatever else the plugins you choose decide to show. Positioning takes one pass, and hotkeys let you move between three states - calibrating an overlay, locking it so your clicks pass through, and interactive mode, where overlays stay put but respond to your mouse so you can use the controls a plugin author exposed. Underneath, FUSE is a full modding runtime with a documented API, so building your own plugin and shipping it to everyone else takes a bit of TypeScript.
   layout: heroPlusTwo # single | two | heroPlusTwo | grid
   images:
     hero: /images/overview-hero.png
@@ -64,7 +64,7 @@ installation:
       description: Create an account to unlock the marketplace. Each plugin page lists what it does, what it draws on screen, and what dependencies it needs to function.
     - name: Step #4
       description: >
-      Start WoT:HEAT, then press Launch in FUSE. Every plugin that draws on screen opens in calibration so you can position it, then Ctrl+L (by default) locks it in place and your clicks pass through to the game. Some plugins ask for two positions: one for third person, one for first - and take one Ctrl+L each. Press Ctrl+I (by default) at any time after calibration for interactive mode, where overlays stay where you put them but respond to your mouse, and press it again to lock them back down. Both hotkeys are rebindable.
+        Start WoT:HEAT, then press Launch in FUSE. Every plugin that draws on screen opens in calibration so you can position it, then Ctrl+L (by default) locks it in place and your clicks pass through to the game. Some plugins ask for two positions: one for third person, one for first - and take one Ctrl+L each. Press Ctrl+I (by default) at any time after calibration for interactive mode, where overlays stay where you put them but respond to your mouse, and press it again to lock them back down. Both hotkeys are rebindable.
 
 videoShowcase:
   enabled: false # Maximum of 4 video cards.
