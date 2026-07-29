@@ -1,47 +1,46 @@
 ---
-name: MOD NAME
-description: MOD DESCRIPTION
-download: DOWNLOAD URL
+name: FUSE
+description: The first external modding platform for WoT:HEAT. Runs outside the game, installs reviewed plugins in one click, and gives developers a documented TypeScript API for building open-ended mods.
+download: https://github.com/AET9RNAL/HEAT-FUSE/releases
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
-category: Gameplay # Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
+category: Loader # Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
 
 license:
   enabled: true
-  name: LICENSE NAME
-  url: LICENSE URL
+  name: GNU General Public License v3 (with additional terms)
+  url: https://github.com/AET9RNAL/HEAT-FUSE/blob/main/LICENSE
 
 support:
   enabled: true
-  description: SHORT SECTION DESCRIPTION
+  description: Found a bug or want to request a feature? Open an issue on GitHub. For setup help, plugin development questions, and release announcements, contact me on Discord.
   feedback:
     enabled: true
     name: GitHub Issues
-    url: https://github.com/USERNAME/REPOSITORY/issues
+    url: https://github.com/AET9RNAL/HEAT-FUSE/issues
   support:
     enabled: true
-    name: Discord Server
-    url: https://discord.gg/INVITE
-
+    name: Discord
+    url: https://discord.com/users/678198830767931431
 features:
   enabled: true # Maximum of 4 feature cards.
   cards:
     - enabled: true
-      name: FEATURE NAME 1
-      description: FEATURE DESCRIPTION 1
+      name: Non-Invasive Philosophy
+      description: FUSE runs as a separate process. It does not modify game files, and all changes performed by FUSE are runtime only - as long as the plugin or FUSE is enabled. Overlays are drawn on their own layer above the window. Plugins can only work with information already available in game's frontend, and every plugin published to the marketplace is reviewed against FUSE's public policies before it goes live.
     - enabled: true
-      name: FEATURE NAME 2
-      description: FEATURE DESCRIPTION 2
+      name: Set It Up Once
+      description: Drag overlays anywhere, resize them, adjust transparency and rotation, and snap them against each other with smart guides and a grid. Layouts are saved per plugin and restored every session, including separate positions for third person and first person. The same stage feeds straight into OBS as a browser source, so what you arrange once is what your viewers see if you're a streamer or record content for the game.
     - enabled: true
-      name: FEATURE NAME 3
-      description: FEATURE DESCRIPTION 3
+      name: From Idea to Plugin in an Evening
+      description: FUSE provides documented API, global hotkeys, persistent settings, the overlay lifecycle, animation through Motion-Vue or self-contained RIVE overlays, so a working plugin is jsut a bit of TypeScript. Full API surface and existing plugin code can be found in the repository.
     - enabled: true
-      name: FEATURE NAME 4
-      description: FEATURE DESCRIPTION 4
+      name: Built to Be Shared
+      description: Your plugin gets a marketplace page with markdown, custom styling, screenshots, declared dependencies, and proper versioning, and players install and update it without ever leaving FUSE.
 
 overview:
   enabled: true # Maximum of 4 images.
-  description: MOD OVERVIEW DESCRIPTION
+  description: WoT:HEAT gives you the interface it ships with and no way to extend it. FUSE is the first modding platform for the game - one launcher where you install plugins from a reviewed marketplace, toggle them on and off, and tune them to your liking. Overlays put extra information on screen while you play or restyle native UI elements: energy, cooldowns, match stats, or whatever else the plugins you choose decide to show. Positioning takes one pass, and hotkeys let you move between three states - calibrating an overlay, locking it so your clicks pass through, and interactive mode, where overlays stay put but respond to your mouse so you can use the controls a plugin author exposed. Underneath, FUSE is a full modding runtime with a documented API, so building your own plugin and shipping it to everyone else takes a bit of TypeScript.
   layout: heroPlusTwo # single | two | heroPlusTwo | grid
   images:
     hero: /images/overview-hero.png
@@ -53,19 +52,19 @@ overview:
 
 installation:
   enabled: true
-  description: HOW TO INSTALL DESCRIPTION
+  description: Follow the steps below to install and get started with FUSE.
   steps:
     - name: Step #1
-      description: STEP 1 DESCRIPTION
+      description: Install FUSE from the latest release, then open the launcher.
     - name: Step #2
-      description: STEP 2 DESCRIPTION
+      description: In Settings, select your game instance and point FUSE at the installation directory. The path must resolve to the game's root folder (for example, C:\YourPath\HEAT). Then turn on the Master Switch.
     - name: Step #3
-      description: STEP 3 DESCRIPTION
+      description: Create an account to unlock the marketplace. Each plugin page lists what it does, what it draws on screen, and what dependencies it needs to function.
     - name: Step #4
-      description: STEP 4 DESCRIPTION
+      description: Start WoT:HEAT, then press Launch in FUSE. Every plugin that draws on screen opens in calibration so you can position it, then Ctrl+L (by default) locks it in place and your clicks pass through to the game. Some plugins ask for two positions: one for third person, one for first - and take one Ctrl+L each. Press Ctrl+I (by default) at any time after calibration for interactive mode, where overlays stay where you put them but respond to your mouse, and press it again to lock them back down. Both hotkeys are rebindable.
 
 videoShowcase:
-  enabled: true # Maximum of 4 video cards.
+  enabled: false # Maximum of 4 video cards.
   layout: single # single | two | heroPlusTwo | grid
   videos:
     - title: VIDEO TITLE 1
