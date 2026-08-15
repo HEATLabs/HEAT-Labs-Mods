@@ -67,7 +67,7 @@ installation:
         Start WoT:HEAT, then press Launch in FUSE. Every plugin that draws on screen opens in calibration so you can position it, then Ctrl+L (by default) locks it in place and your clicks pass through to the game. Some plugins ask for two positions: one for third person, one for first - and take one Ctrl+L each. Press Ctrl+I (by default) at any time after calibration for interactive mode, where overlays stay where you put them but respond to your mouse, and press it again to lock them back down. Both hotkeys are rebindable.
 
 videoShowcase:
-  enabled: false # Maximum of 4 video cards.
+  enabled: true # Maximum of 4 video cards.
   layout: single # single | two | heroPlusTwo | grid
   videos:
     - title: HEAT FUSE MOD GUIDE
