@@ -71,7 +71,6 @@ videoShowcase:
   layout: single # single | two | heroPlusTwo | grid
   videos:
     - title: HEAT FUSE MOD GUIDE
-      description: VIDEO DESCRIPTION 1
       thumbnail: https://i.ytimg.com/vi/T4n21eZ9uuY/maxresdefault.jpg
       url: https://www.youtube.com/watch?v=T4n21eZ9uuY
       creator: TheCommandersHatch
