@@ -45,7 +45,6 @@ overview:
   description: MOD OVERVIEW DESCRIPTION
   layout: none # none | single | two | heroPlusTwo | grid
   images:
-    hero: /images/overview-hero.png
     items:
       - /images/overview-1.png
       - /images/overview-2.png
