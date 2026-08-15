@@ -2,7 +2,7 @@
 name: MOD NAME
 description: MOD DESCRIPTION
 download: DOWNLOAD URL
-compatible-version: 1.1.1
+compatible-version: 1.1.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
 category: Gameplay # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
