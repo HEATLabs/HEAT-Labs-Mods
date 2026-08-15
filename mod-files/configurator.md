@@ -43,7 +43,7 @@ features:
 overview:
   enabled: true # Maximum of 4 images.
   description: MOD OVERVIEW DESCRIPTION
-  layout: heroPlusTwo # single | two | heroPlusTwo | grid
+  layout: none # none | single | two | heroPlusTwo | grid
   images:
     hero: /images/overview-hero.png
     items:

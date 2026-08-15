@@ -43,7 +43,7 @@ overview:
   enabled: true # Maximum of 4 images.
   description: >
     WoT HEAT gives you the interface it ships with and no way to extend it. FUSE is the first modding platform for the game - one launcher where you install plugins from a reviewed marketplace, toggle them on and off, and tune them to your liking. Overlays put extra information on screen while you play or restyle native UI elements: energy, cooldowns, match stats, or whatever else the plugins you choose decide to show. Positioning takes one pass, and hotkeys let you move between three states - calibrating an overlay, locking it so your clicks pass through, and interactive mode, where overlays stay put but respond to your mouse so you can use the controls a plugin author exposed. Underneath, FUSE is a full modding runtime with a documented API, so building your own plugin and shipping it to everyone else takes a bit of TypeScript.
-  layout: heroPlusTwo # single | two | heroPlusTwo | grid
+  layout: none # none | single | two | heroPlusTwo | grid
   images:
     hero: /images/overview-hero.png
     items:
