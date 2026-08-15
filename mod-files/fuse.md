@@ -70,28 +70,10 @@ videoShowcase:
   enabled: false # Maximum of 4 video cards.
   layout: single # single | two | heroPlusTwo | grid
   videos:
-    - title: VIDEO TITLE 1
+    - title: HEAT FUSE MOD GUIDE
       description: VIDEO DESCRIPTION 1
-      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
-      url: https://www.youtube.com/watch?v=[VIDEO_ID]
-      creator: CREATOR NAME
-      type: Tutorial
-    - title: VIDEO TITLE 2
-      description: VIDEO DESCRIPTION 2
-      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
-      url: https://www.youtube.com/watch?v=[VIDEO_ID]
-      creator: CREATOR NAME
-      type: Tutorial
-    - title: VIDEO TITLE 3
-      description: VIDEO DESCRIPTION 3
-      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
-      url: https://www.youtube.com/watch?v=[VIDEO_ID]
-      creator: CREATOR NAME
-      type: Tutorial
-    - title: VIDEO TITLE 4
-      description: VIDEO DESCRIPTION 4
-      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
-      url: https://www.youtube.com/watch?v=[VIDEO_ID]
-      creator: CREATOR NAME
+      thumbnail: https://i.ytimg.com/vi/T4n21eZ9uuY/maxresdefault.jpg
+      url: https://www.youtube.com/watch?v=T4n21eZ9uuY
+      creator: TheCommandersHatch
       type: Tutorial
 ---
