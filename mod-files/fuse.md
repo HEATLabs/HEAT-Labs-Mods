@@ -72,7 +72,7 @@ videoShowcase:
   videos:
     - title: HEAT FUSE MOD GUIDE
       thumbnail: https://i.ytimg.com/vi/T4n21eZ9uuY/maxresdefault.jpg
-      url: https://www.youtube.com/watch?v=T4n21eZ9uuY
+      url: https://www.youtube-nocookie.com/embed/T4n21eZ9uuY
       creator: TheCommandersHatch
       type: Tutorial
 ---
