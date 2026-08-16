@@ -23,6 +23,7 @@ support:
     enabled: true
     name: Discord
     url: https://discord.com/users/678198830767931431
+
 features:
   enabled: true # Maximum of 4 feature cards.
   cards:
