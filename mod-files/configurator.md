@@ -60,7 +60,7 @@ installation:
   description: Install steps innit
   steps:
     - name: Step #1
-      description: Find us on Steam! This will ensure you have the latest version at all times. This still works across all PC store fronts and versions.
+      description: Find us on Steam! (Search HEAT Labs). This will ensure you have the latest version at all times. This still works across all PC store fronts and versions.
     - name: Step #2
       description: Under your tools and software toggle in your library look for 'HEAT Labs Configurator' and install the tool.
     - name: Step #3
