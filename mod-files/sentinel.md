@@ -65,25 +65,10 @@ installation:
       description: STEP 4 DESCRIPTION
 
 videoShowcase:
-  enabled: true # Maximum of 4 video cards.
+  enabled: false # Maximum of 4 video cards.
   layout: single # single | two | heroPlusTwo | grid
   videos:
     - title: VIDEO TITLE 1
-      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
-      url: https://www.youtube-nocookie.com/embed/[VIDEO_ID]
-      creator: CREATOR NAME
-      type: Tutorial
-    - title: VIDEO TITLE 2
-      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
-      url: https://www.youtube-nocookie.com/embed/[VIDEO_ID]
-      creator: CREATOR NAME
-      type: Tutorial
-    - title: VIDEO TITLE 3
-      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
-      url: https://www.youtube-nocookie.com/embed/[VIDEO_ID]
-      creator: CREATOR NAME
-      type: Tutorial
-    - title: VIDEO TITLE 4
       thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
       url: https://www.youtube-nocookie.com/embed/[VIDEO_ID]
       creator: CREATOR NAME
