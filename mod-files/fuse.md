@@ -28,15 +28,19 @@ features:
   enabled: true # Maximum of 4 feature cards.
   cards:
     - enabled: true
+      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
       name: Non-Invasive Philosophy
       description: FUSE runs as a separate process. It does not modify game files, and all changes performed by FUSE are runtime only - as long as the plugin or FUSE is enabled. Overlays are drawn on their own layer above the window. Plugins can only work with information already available in game's frontend, and every plugin published to the marketplace is reviewed against FUSE's public policies before it goes live.
     - enabled: true
+      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
       name: Set It Up Once
       description: Drag overlays anywhere, resize them, adjust transparency and rotation, and snap them against each other with smart guides and a grid. Layouts are saved per plugin and restored every session, including separate positions for third person and first person. The same stage feeds straight into OBS as a browser source, so what you arrange once is what your viewers see if you're a streamer or record content for the game.
     - enabled: true
+      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
       name: From Idea to Plugin in an Evening
       description: FUSE provides documented API, global hotkeys, persistent settings, the overlay lifecycle, animation through Motion-Vue or self-contained RIVE overlays, so a working plugin is just a bit of TypeScript. Full API surface and existing plugin code can be found in the repository.
     - enabled: true
+      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
       name: Built to Be Shared
       description: Your plugin gets a marketplace page with markdown, custom styling, screenshots, declared dependencies, and proper versioning, and players install and update it without ever leaving FUSE.
 
