@@ -1,7 +1,7 @@
 ---
-name: MOD NAME
-description: MOD DESCRIPTION
-download: DOWNLOAD URL
+name: Game Configurator Tool
+description: Configure your World of Tanks HEAT instance with advanced settings and customisation. 
+download: https://steamcommunity.com/games/4332900/announcements/detail/695389579400711483
 compatible-version: 1.1.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
 category: Gameplay # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
@@ -14,7 +14,7 @@ license:
 
 support:
   enabled: false
-  description: SHORT SECTION DESCRIPTION
+  description: Found a bug or want to request a feature? Open an issue on GitHub or contact us on discord. 
   feedback:
     enabled: true
     name: GitHub Issues
@@ -46,7 +46,7 @@ features:
 
 overview:
   enabled: true # Maximum of 4 images.
-  description: MOD OVERVIEW DESCRIPTION
+  description: HEAT Labs Configuration Tool for World of Tanks HEAT is a multipurpose utility designed to give players greater control over their base game experience. The tool provides access to advanced settings before launching the game. Customise everything from frame rates, resolutions and controller settings to command-line arguments and more and save them to custom profiles for easy swapping.
   layout: none # none | single | two | heroPlusTwo | grid
   images:
     items:
@@ -60,13 +60,13 @@ installation:
   description: HOW TO INSTALL DESCRIPTION
   steps:
     - name: Step #1
-      description: STEP 1 DESCRIPTION
+      description: Find us on Steam! This will ensure you have the latest version at all times. This still works across all PC store fronts and versions.
     - name: Step #2
-      description: STEP 2 DESCRIPTION
+      description: Under your tools and software toggle in your library look for 'HEAT Labs Configurator' and install the tool.
     - name: Step #3
-      description: STEP 3 DESCRIPTION
+      description: Launch the HEAT Labs Configurator Tool and follow the in app prompts. It may ask for a file location if it cannot find one.
     - name: Step #4
-      description: STEP 4 DESCRIPTION
+      description: Don't break it (Or do) but have fun.
 
 videoShowcase:
   enabled: false # Maximum of 4 video cards.
