@@ -57,7 +57,7 @@ overview:
 
 installation:
   enabled: true
-  description: HOW TO INSTALL DESCRIPTION
+  description: Install steps innit
   steps:
     - name: Step #1
       description: Find us on Steam! This will ensure you have the latest version at all times. This still works across all PC store fronts and versions.
