@@ -28,19 +28,19 @@ features:
   enabled: true # Maximum of 4 feature cards. For icons use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
   cards:
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
+      icon:
       name: FEATURE NAME 1
       description: FEATURE DESCRIPTION 1
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
+      icon:
       name: FEATURE NAME 2
       description: FEATURE DESCRIPTION 2
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
+      icon:
       name: FEATURE NAME 3
       description: FEATURE DESCRIPTION 3
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
+      icon:
       name: FEATURE NAME 4
       description: FEATURE DESCRIPTION 4
 
