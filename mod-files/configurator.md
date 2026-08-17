@@ -1,28 +1,28 @@
 ---
-name: Game Configurator Tool
+name: Game Configurator
 description: Configure your World of Tanks HEAT instance with advanced settings and customisation. 
-download: https://steamcommunity.com/games/4332900/announcements/detail/695389579400711483
+download: https://store.steampowered.com/app/4318510/HEAT_Labs/
 compatible-version: 1.1.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
-category: Gameplay # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
+category: Gameplay, Interface # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
 
 license:
   enabled: true
-  name: LICENSE NAME
-  url: LICENSE URL
+  name: GNU GENERAL PUBLIC LICENSE Version 3
+  url: https://heatlabs.net/legal/project-license
 
 support:
-  enabled: false
+  enabled: true
   description: Found a bug or want to request a feature? Open an issue on GitHub or contact us on discord. 
   feedback:
     enabled: true
     name: GitHub Issues
-    url: https://github.com/USERNAME/REPOSITORY/issues
+    url: https://github.com/HEATLabs/HEAT-Labs-Configurator/issues
   support:
     enabled: true
     name: Discord Server
-    url: https://discord.gg/INVITE
+    url: https://discord.heatlabs.net
 
 features:
   enabled: true # Maximum of 4 feature cards.
