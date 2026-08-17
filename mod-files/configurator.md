@@ -28,19 +28,19 @@ features:
   enabled: true # Maximum of 4 feature cards.
   cards:
     - enabled: true
-      icon: fa-shield-halved
+      icon: <i class="fa-solid fa-shield-halved"></i>
       name: Completely Offline
       description: No data transfers, accounts, or tracking. Everything works completely offline with no extra setup or hassle.
     - enabled: true
-      icon: fa-floppy-disk
+      icon: <i class="fa-solid fa-floppy-disk"></i>
       name: Local Config Management
       description: Store, edit, and update your configurations directly from the app, with everything securely stored locally on your device.
     - enabled: true
-      icon: fa-rotate-left
+      icon: <i class="fa-solid fa-rotate-left"></i>
       name: Backup & Restore
       description: Back up your configurations and restore them whenever you need to return to your original stock settings.
     - enabled: true
-      icon: fa-circle-question
+      icon: <i class="fa-solid fa-circle-question"></i>
       name: Built-in Help
       description: Helpful tooltips explain what each setting does in-game, making it easier to understand and configure everything correctly.
 
