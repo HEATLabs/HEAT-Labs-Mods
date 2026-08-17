@@ -28,21 +28,21 @@ features:
   enabled: true # Maximum of 4 feature cards.
   cards:
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
-      name: FEATURE NAME 1
-      description: FEATURE DESCRIPTION 1
+      icon: fa-shield-halved
+      name: Completely Offline
+      description: No data transfers, accounts, or tracking. Everything works completely offline with no extra setup or hassle.
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
-      name: FEATURE NAME 2
-      description: FEATURE DESCRIPTION 2
+      icon: fa-floppy-disk
+      name: Local Config Management
+      description: Store, edit, and update your configurations directly from the app, with everything securely stored locally on your device.
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
-      name: FEATURE NAME 3
-      description: FEATURE DESCRIPTION 3
+      icon: fa-rotate-left
+      name: Backup & Restore
+      description: Back up your configurations and restore them whenever you need to return to your original stock settings.
     - enabled: true
-      icon: # Use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
-      name: FEATURE NAME 4
-      description: FEATURE DESCRIPTION 4
+      icon: fa-circle-question
+      name: Built-in Help
+      description: Helpful tooltips explain what each setting does in-game, making it easier to understand and configure everything correctly.
 
 overview:
   enabled: true # Maximum of 4 images.
