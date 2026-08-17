@@ -25,7 +25,7 @@ support:
     url: https://discord.heatlabs.net
 
 features:
-  enabled: true # Maximum of 4 feature cards.
+  enabled: true # Maximum of 4 feature cards. For icons use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
   cards:
     - enabled: true
       icon: <i class="fa-solid fa-shield-halved"></i>
