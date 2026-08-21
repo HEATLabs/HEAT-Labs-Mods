@@ -1,6 +1,6 @@
 ---
 name: HEAT Sentinel
-description: Keeps track of every battle you play, remembers every player who has ever killed you, and lets you change the colours of the game's interface and hide the parts of it you never wanted to see.
+description: The all-in-one mod for battle tracking and interface tweaking for WoT:HEAT. Records every battle by itself, keeps a running score against every player who has ever killed you, and rebuilds the game's interface with your own colours, overlays and player marks.
 download: https://github.com/OxCone1/HEAT-Sentinel/releases
 compatible-version: 1.1.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued | Prototype | Unknown
