@@ -1,7 +1,6 @@
 ---
 name: Game Configurator
 description: Configure your World of Tanks HEAT instance with advanced settings and customisation. 
-download: https://store.steampowered.com/app/4318510/HEAT_Labs/
 page-image: IMAGE URL
 compatible-version: 1.1.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
