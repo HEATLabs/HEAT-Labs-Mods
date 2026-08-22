@@ -2,6 +2,7 @@
 name: MOD NAME
 description: MOD DESCRIPTION
 download: DOWNLOAD URL
+page-image: IMAGE URL
 compatible-version: 0.0.0
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
 category: Gameplay # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
