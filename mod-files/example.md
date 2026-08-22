@@ -58,7 +58,7 @@ installation:
       description: STEP 1 DESCRIPTION
 
 troubleshooting:
-  enabled: false
+  enabled: true
   description: COMMON TROUBLESHOOTING STEPS
   steps:
     - name: Step #1
