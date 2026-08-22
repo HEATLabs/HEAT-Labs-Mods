@@ -8,6 +8,16 @@ status: Available # Available | Work in Progress | Beta Testing | Discontinued |
 category: Loader, Interface, Statistics # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
 
+downloads:
+  layout: single # single | two | three | four
+  links:
+    - os: Windows
+      url: https://github.com/AET9RNAL/HEAT-FUSE/releases
+    - os: MacOS
+      url: URL
+    - os: Linux
+      url: URL
+
 license:
   enabled: true
   name: GNU General Public License v3 (with additional terms)

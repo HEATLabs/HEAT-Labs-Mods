@@ -8,6 +8,16 @@ status: Available # Available | Work in Progress | Beta Testing | Discontinued |
 category: Statistics, Interface, Visual # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Closed Source # Open Source | Closed Source
 
+downloads:
+  layout: single # single | two | three | four
+  links:
+    - os: Windows
+      url: https://github.com/OxCone1/HEAT-Sentinel/releases
+    - os: MacOS
+      url: URL
+    - os: Linux
+      url: URL
+
 license:
   enabled: true
   name: Proprietary (free for personal use)

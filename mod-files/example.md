@@ -8,6 +8,16 @@ status: Available # Available | Work in Progress | Beta Testing | Discontinued
 category: Gameplay # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
 
+downloads:
+  layout: single # single | two | three | four
+  links:
+    - os: Windows
+      url: URL
+    - os: MacOS
+      url: URL
+    - os: Linux
+      url: URL
+
 license:
   enabled: true
   name: LICENSE NAME
