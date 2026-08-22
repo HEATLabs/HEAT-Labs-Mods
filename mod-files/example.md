@@ -32,18 +32,6 @@ features:
       icon:
       name: FEATURE NAME 1
       description: FEATURE DESCRIPTION 1
-    - enabled: true
-      icon:
-      name: FEATURE NAME 2
-      description: FEATURE DESCRIPTION 2
-    - enabled: true
-      icon:
-      name: FEATURE NAME 3
-      description: FEATURE DESCRIPTION 3
-    - enabled: true
-      icon:
-      name: FEATURE NAME 4
-      description: FEATURE DESCRIPTION 4
 
 overview:
   enabled: true # Maximum of 4 images.
@@ -52,9 +40,6 @@ overview:
   images:
     items:
       - /images/overview-1.png
-      - /images/overview-2.png
-      - /images/overview-3.png
-      - /images/overview-4.png
 
 installation:
   enabled: true
@@ -62,12 +47,6 @@ installation:
   steps:
     - name: Step #1
       description: STEP 1 DESCRIPTION
-    - name: Step #2
-      description: STEP 2 DESCRIPTION
-    - name: Step #3
-      description: STEP 3 DESCRIPTION
-    - name: Step #4
-      description: STEP 4 DESCRIPTION
 
 troubleshooting:
   enabled: false
@@ -75,12 +54,6 @@ troubleshooting:
   steps:
     - name: Step #1
       description: STEP 1 DESCRIPTION
-    - name: Step #2
-      description: STEP 2 DESCRIPTION
-    - name: Step #3
-      description: STEP 3 DESCRIPTION
-    - name: Step #4
-      description: STEP 4 DESCRIPTION
 
 videoShowcase:
   enabled: false # Maximum of 4 video cards.

@@ -52,9 +52,6 @@ overview:
   images:
     items:
       - /images/overview-1.png
-      - /images/overview-2.png
-      - /images/overview-3.png
-      - /images/overview-4.png
 
 installation:
   enabled: true
@@ -75,12 +72,6 @@ troubleshooting:
   steps:
     - name: Step #1
       description: STEP 1 DESCRIPTION
-    - name: Step #2
-      description: STEP 2 DESCRIPTION
-    - name: Step #3
-      description: STEP 3 DESCRIPTION
-    - name: Step #4
-      description: STEP 4 DESCRIPTION
 
 videoShowcase:
   enabled: true # Maximum of 4 video cards.
