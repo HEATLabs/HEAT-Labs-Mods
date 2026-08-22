@@ -68,6 +68,19 @@ installation:
     - name: Step #4
       description: Go play. Battles save themselves as they finish. When you feel like tweaking things, the Overlay tab is where you lay out what shows on screen, and the Game UI tab is where the colours, the interface tweaker, player labels and your friends list live.
 
+troubleshooting:
+  enabled: false
+  description: COMMON TROUBLESHOOTING STEPS
+  steps:
+    - name: Step #1
+      description: STEP 1 DESCRIPTION
+    - name: Step #2
+      description: STEP 2 DESCRIPTION
+    - name: Step #3
+      description: STEP 3 DESCRIPTION
+    - name: Step #4
+      description: STEP 4 DESCRIPTION
+
 videoShowcase:
   enabled: false # Maximum of 4 video cards.
   layout: single # single | two | heroPlusTwo | grid

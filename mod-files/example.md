@@ -68,6 +68,19 @@ installation:
     - name: Step #4
       description: STEP 4 DESCRIPTION
 
+troubleshooting:
+  enabled: false
+  description: COMMON TROUBLESHOOTING STEPS
+  steps:
+    - name: Step #1
+      description: STEP 1 DESCRIPTION
+    - name: Step #2
+      description: STEP 2 DESCRIPTION
+    - name: Step #3
+      description: STEP 3 DESCRIPTION
+    - name: Step #4
+      description: STEP 4 DESCRIPTION
+
 videoShowcase:
   enabled: false # Maximum of 4 video cards.
   layout: single # single | two | heroPlusTwo | grid
