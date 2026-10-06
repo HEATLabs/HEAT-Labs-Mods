@@ -2,7 +2,7 @@
 name: Game Configurator
 description: Configure your World of Tanks HEAT instance with advanced settings and customisation. 
 page-image: IMAGE URL
-compatible-version: 1.1.2
+compatible-version: 1.2.1
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
 category: Gameplay, Interface # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Open Source # Open Source | Closed Source
