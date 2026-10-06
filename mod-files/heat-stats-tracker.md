@@ -40,11 +40,11 @@ features:
   enabled: true # Maximum of 4 feature cards. For icons use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
   cards:
     - enabled: true
-      icon:
+      icon: <i class="fa-solid fa-medal"></i>
       name: Leaderboard Tracking
       description: Want to know your Leaderboard position history or those of your friends? The Bot actively tracks any Leaderboard changes in the Profiles but also gives an overview. With /leaderboard you can see the current Board and its recent changes.
     - enabled: true
-      icon:
+      icon: <i class="fa-solid fa-users"></i>
       name: Profiles
       description: Once a Player is on any of the available Leaderboards the Bot will track his statistics, Overall, Recent and 30 Days. You can view a Profile using /stats and you'll get the player's profile
 
