@@ -83,12 +83,12 @@ troubleshooting:
       description: STEP 1 DESCRIPTION
 
 videoShowcase:
-  enabled: true # Maximum of 4 video cards.
+  enabled: false # Maximum of 4 video cards.
   layout: single # single | two | heroPlusTwo | grid
   videos:
-    - title: HEAT FUSE MOD GUIDE
-      thumbnail: https://i.ytimg.com/vi/T4n21eZ9uuY/maxresdefault.jpg
-      url: https://www.youtube-nocookie.com/embed/T4n21eZ9uuY
-      creator: TheCommandersHatch
+    - title: VIDEO TITLE 1
+      thumbnail: https://i.ytimg.com/vi/[VIDEO_ID]/maxresdefault.jpg
+      url: https://www.youtube-nocookie.com/embed/[VIDEO_ID]
+      creator: CREATOR NAME
       type: Tutorial
 ---
