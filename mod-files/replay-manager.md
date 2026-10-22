@@ -1,6 +1,6 @@
 ---
 name: Replay Manager
-description: MOD DESCRIPTION
+description: Replay Manager lets you save, organise, and watch back your recorded battles in World of Tanks HEAT. Whether you're reviewing your gameplay or clipping your best moments, this is the tool for you.
 page-image: IMAGE URL
 compatible-version: 1.2.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
@@ -39,8 +39,21 @@ features:
   cards:
     - enabled: true
       icon:
-      name: FEATURE NAME 1
-      description: FEATURE DESCRIPTION 1
+      name: Watch Replays
+      description: Watch your gameplay back in real time. See every move you made played out exactly as it happened. 
+    - enabled: true
+      icon:
+      name: Replay Archiving
+      description: Got a replay you want to keep hold of? This app supports archiving of replays to safely store files for future use.
+    - enabled: true
+      icon:
+      name: Lightweight
+      description: No installation required. This app is entirely portable for you to use as and when.
+    - enabled: true
+      icon:
+      name: Automatic Version Handling
+      description: Have multiple versions of the game installed? have replays matching those versions? No problem, the tool will pick the appropriate client for you.
+      
 
 overview:
   enabled: true # Maximum of 4 images.
