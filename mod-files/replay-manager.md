@@ -57,7 +57,7 @@ features:
 
 overview:
   enabled: true # Maximum of 4 images.
-  description: MOD OVERVIEW DESCRIPTION
+  description: Replay Manager lets you save, organise, and watch back your recorded battles in World of Tanks HEAT. Whether you're reviewing your gameplay or clipping your best moments this is the tool for you.
   layout: none # none | single | two | heroPlusTwo | grid
   images:
     items:
