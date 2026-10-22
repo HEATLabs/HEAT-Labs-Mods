@@ -38,19 +38,19 @@ features:
   enabled: true # Maximum of 4 feature cards. For icons use fontawesome icons only found here https://fontawesome.com/search?ic=free-collection
   cards:
     - enabled: true
-      icon:
+      icon: <i class="fa-solid fa-play"></i>
       name: Watch Replays
       description: Watch your gameplay back in real time. See every move you made played out exactly as it happened. 
     - enabled: true
-      icon:
+      icon: <i class="fa-solid fa-box-archive"></i>
       name: Replay Archiving
       description: Got a replay you want to keep hold of? This app supports archiving of replays to safely store files for future use.
     - enabled: true
-      icon:
+      icon: <i class="fa-solid fa-feather"></i>
       name: Lightweight
       description: No installation required. This app is entirely portable for you to use as and when.
     - enabled: true
-      icon:
+      icon: <i class="fa-solid fa-arrows-rotate"></i>
       name: Automatic Version Handling
       description: Have multiple versions of the game installed? have replays matching those versions? No problem, the tool will pick the appropriate client for you.
       
