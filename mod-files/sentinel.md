@@ -60,10 +60,10 @@ overview:
   layout: grid # none | single | two | heroPlusTwo | grid
   images:
     items:
-      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/stats-overview.png
-      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/rivals-1v1.png
-      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/loadouts.png
-      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/moe.png
+      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/stats-overview.webp
+      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/rivals-1v1.webp
+      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/loadouts.webp
+      - https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/moe.webp
 
 installation:
   enabled: true
