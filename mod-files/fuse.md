@@ -1,7 +1,7 @@
 ---
 name: FUSE
 description: The first external modding platform for WoT:HEAT. Runs outside the game, installs reviewed plugins in one click, and gives developers a documented TypeScript API for building open-ended mods.
-page-image: IMAGE URL
+page-image: https://cdn6.heatlabs.net/mods/Fuse.webp
 compatible-version: 1.2.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued | Prototype | Unknown
 category: Loader, Interface, Statistics # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics

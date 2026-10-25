@@ -1,7 +1,7 @@
 ---
 name: Replay Manager
 description: Replay Manager lets you save, organise, and watch back your recorded battles in World of Tanks HEAT. Whether you're reviewing your gameplay or clipping your best moments, this is the tool for you.
-page-image: IMAGE URL
+page-image: https://cdn6.heatlabs.net/mods/ReplayManager.webp
 compatible-version: 1.2.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
 category: Gameplay # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics

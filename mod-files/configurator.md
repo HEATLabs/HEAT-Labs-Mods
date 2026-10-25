@@ -1,7 +1,7 @@
 ---
 name: Game Configurator
 description: Configure your World of Tanks HEAT instance with advanced settings and customisation. 
-page-image: IMAGE URL
+page-image: https://cdn6.heatlabs.net/mods/GameConfigurator.webp
 compatible-version: 1.2.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued
 category: Gameplay, Interface # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics

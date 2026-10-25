@@ -1,7 +1,7 @@
 ---
 name: Leopard 2K-ST
 description: Records Player Statistics and Leaderboard Performance for the current and past seasons
-page-image: IMAGE URL
+page-image: https://cdn6.heatlabs.net/mods/HEAT-Stats-Tracker.webp
 compatible-version: All Versions
 status: Available
 category: Statistics
