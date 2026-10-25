@@ -20,7 +20,7 @@ downloads:
       url: URL
 
 license:
-  enabled: true
+  enabled: false
   name: Free for personal use
   url: LICENSE URL
 
