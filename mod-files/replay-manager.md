@@ -58,10 +58,12 @@ features:
 overview:
   enabled: true # Maximum of 4 images.
   description: Replay Manager lets you save, organise, and watch back your recorded battles in World of Tanks HEAT. With built-in replay storage and automatic game version handling, managing your replays is simple, making it easy to revisit your matches, review your gameplay, or relive your best moments.
-  layout: none # none | single | two | heroPlusTwo | grid
+  layout: heroPlusTwo # none | single | two | heroPlusTwo | grid
   images:
     items:
-      - /images/overview-1.png
+      - https://cdn6.heatlabs.net/mods/replay-manager/replay-manager-1.webp
+      - https://cdn6.heatlabs.net/mods/replay-manager/replay-manager-2.webp
+      - https://cdn6.heatlabs.net/mods/replay-manager/replay-manager-3.webp
 
 installation:
   enabled: true

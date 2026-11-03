@@ -57,10 +57,13 @@ features:
 overview:
   enabled: true # Maximum of 4 images.
   description: HEAT Labs Configuration Tool for World of Tanks HEAT is a multipurpose utility designed to give players greater control over their base game experience. The tool provides access to advanced settings before launching the game. Customise everything from frame rates, resolutions and controller settings to command-line arguments and more and save them to custom profiles for easy swapping.
-  layout: none # none | single | two | heroPlusTwo | grid
+  layout: grid # none | single | two | heroPlusTwo | grid
   images:
     items:
-      - /images/overview-1.png
+      - https://cdn6.heatlabs.net/mods/configurator/configurator-1.webp
+      - https://cdn6.heatlabs.net/mods/configurator/configurator-2.webp
+      - https://cdn6.heatlabs.net/mods/configurator/configurator-3.webp
+      - https://cdn6.heatlabs.net/mods/configurator/configurator-4.webp
 
 installation:
   enabled: true

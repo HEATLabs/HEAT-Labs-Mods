@@ -1,7 +1,7 @@
 ---
 name: HEAT Sentinel
 description: The all-in-one stats and interface mod for WoT HEAT. Records every battle on its own and turns it into stats, player profiles, 1v1 rivalries, loadouts and Marks of Excellence, reworks the game's interface with custom sights, colours, a real map on the radar and team alerts, and adds a Tactics Board, replays and stream tools.
-page-image: https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/banner.jpg
+page-image: https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/banner.webp
 compatible-version: 1.2.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued | Prototype | Unknown
 category: Statistics, Interface, Visual # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
