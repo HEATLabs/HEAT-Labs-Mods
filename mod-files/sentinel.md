@@ -4,7 +4,7 @@ description: The all-in-one stats and interface mod for WoT HEAT. Records every 
 page-image: https://raw.githubusercontent.com/OxCone1/HEAT-Sentinel/main/heat-labs/banner.webp
 compatible-version: 1.2.2
 status: Available # Available | Work in Progress | Beta Testing | Discontinued | Prototype | Unknown
-category: Statistics, Interface, Visual # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
+category: Statistics, Gameplay, Interface, Visual # First category is primary, others are secondary: Gameplay | Interface | Audio | Visual | Model | Performance | Loader | Statistics
 type: Closed Source # Open Source | Closed Source
 
 downloads:
@@ -15,7 +15,7 @@ downloads:
     - os: MacOS
       url: URL
     - os: Linux
-      url: URL
+      url: https://github.com/OxCone1/HEAT-Sentinel/releases
 
 license:
   enabled: true
